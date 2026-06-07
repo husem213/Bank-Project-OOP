@@ -1,0 +1,28 @@
+﻿  RivisingFromZero.cpp
+C:\Users\Houssem\source\repos\RivisingFromZero\clsString.h(37,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'RivisingFromZero.cpp')
+  
+C:\Users\Houssem\source\repos\RivisingFromZero\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'RivisingFromZero.cpp')
+  
+C:\Users\Houssem\source\repos\RivisingFromZero\clsString.h(54,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'RivisingFromZero.cpp')
+  
+C:\Users\Houssem\source\repos\RivisingFromZero\clsString.h(185,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'RivisingFromZero.cpp')
+  
+C:\Users\Houssem\source\repos\RivisingFromZero\clsUtil.h(175,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'RivisingFromZero.cpp')
+  
+C:\Users\Houssem\source\repos\RivisingFromZero\clsBankUser.h(179,9): warning C4240: nonstandard extension used: access to 'clsBankUser::stLoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'RivisingFromZero.cpp')
+      C:\Users\Houssem\source\repos\RivisingFromZero\clsBankUser.h(150,9):
+      see declaration of 'clsBankUser::stLoginRegister'
+  
+C:\Users\Houssem\source\repos\RivisingFromZero\clsBankClient.h(208,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'RivisingFromZero.cpp')
+      C:\Users\Houssem\source\repos\RivisingFromZero\clsBankClient.h(56,9):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+C:\Users\Houssem\source\repos\RivisingFromZero\clsString.h(523,1): warning C4715: 'clsString::NumberToString': not all control paths return a value
+  RivisingFromZero.vcxproj -> C:\Users\Houssem\source\repos\RivisingFromZero\x64\Debug\RivisingFromZero.exe
