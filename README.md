@@ -35,3 +35,24 @@ Inside the system:
 <img width="1442" height="405" alt="image" src="https://github.com/user-attachments/assets/a759bc47-04ba-4ac0-b5df-ff287d9078f4" />
 
 Permissions are using bitwise operators to give access to the users. It is 'Binary Data Structure'.
+
+## 🛠️ Installation & Setup
+
+To run this project locally on your machine, follow these simple steps:
+
+### Prerequisites
+* **Visual Studio 2022** (or newer) with the desktop development workload installed.
+* **Git** installed on your system.
+
+### Step-by-Step Guide
+
+1. **Clone the repository:**
+   Open your terminal or Git Bash and run the following command:
+```bash
+   git clone https://github.com/husem213/Bank-Project-OOP.git
+```
+2. Navigat to the project folder:
+```bash
+  cd Bank-Project-OOP
+```
+3. Open the project on VS code and run it.
